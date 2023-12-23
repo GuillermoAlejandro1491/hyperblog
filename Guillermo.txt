@@ -1,7 +1,11 @@
 Guillermo es Ingeniero Comercial.
 
-Tiene 32 años
+Tiene 33 años
 
 Es especialista en ciencias de datos.
 
 Tiene una maestria en Bussines Administration.
+
+Tiene un diplomado en Marketing Digital 
+
+Es cientifico de datos certificado por Microsoft.
